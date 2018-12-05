@@ -20,7 +20,7 @@ const overlayStyle = {
 	alignItems: 'center',
 }
 
-class SelectedImage extends Component {
+class ImageComponent extends Component {
 	state = {
 		showOverlay: false,
 		overlayOpacity: 0,
@@ -39,7 +39,7 @@ class SelectedImage extends Component {
 		const { margin, photo } = this.props;
 		const { height, width } = photo;
 		return (
-			<div 
+			<div
 				onMouseOver={this.showOverlay}
 				onMouseOut={this.hideOverlay}
 				style={{ margin, height, width, ...contentStyle }}
@@ -60,4 +60,4 @@ class SelectedImage extends Component {
 	}
 }
 
-export default SelectedImage;
+export default ImageComponent;

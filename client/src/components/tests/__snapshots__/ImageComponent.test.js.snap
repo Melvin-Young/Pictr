@@ -1,0 +1,485 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageComponent should render 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Header
+    margin={5}
+    photos={
+      Array [
+        Object {
+          "author": "nobody@flickr.com (\\"tonghopdeal\\")",
+          "dateTaken": "2018-12-04T21:39:32-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/144437346@N02/31246222687/",
+          "src": "https://farm5.staticflickr.com/4880/31246222687_e2fb400a05_m.jpg",
+          "tags": "đêm gala thiện nguyện đầy ý nghĩa của cuộc thi mr ms international business",
+          "title": "Đêm Gala thiện nguyện đầy ý nghĩa của cuộc thi Mr & Ms International Business",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"SpektroMediaPTY\\")",
+          "dateTaken": "2018-11-20T18:59:39-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/137829578@N05/32313509668/",
+          "src": "https://farm5.staticflickr.com/4870/32313509668_0b957c8b4d_m.jpg",
+          "tags": "",
+          "title": "_MG_5151.jpg",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"Miguel Discart (Photos Vrac)\\")",
+          "dateTaken": "2018-04-01T09:53:47-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/miguel_discart_vrac_3/44368182970/",
+          "src": "https://farm5.staticflickr.com/4881/44368182970_0c8bdeff4a_m.jpg",
+          "tags": "2018 30mm candidportrait candide candideportrait createdbydxo dxo e18135mmf3556oss editedphoto focallength30mm focallengthin35mmformat30mm frenchquarter ilce6500 iso200 lanouvelleorleans louisiana louisiane neworleans nouvelleorleans parad parade photoderue photography quartierfrancais sony sonyilce6500 sonyilce6500e18135mmf3556oss street streetphotography unitedstates usa",
+          "title": "2018-04-01_09-53-47_ILCE-6500_DSC00334_DxO",
+          "width": 135,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"Rob T Stanier\\")",
+          "dateTaken": "2018-09-15T08:24:12-08:00",
+          "height": 171,
+          "link": "https://www.flickr.com/photos/thesordidsentinel/44368184050/",
+          "src": "https://farm5.staticflickr.com/4916/44368184050_3a3f2e1618_m.jpg",
+          "tags": "",
+          "title": "Expired Fuji Velvia 100 Fujichrome - Olympus Mju.",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"haimanti.weld\\")",
+          "dateTaken": "2018-11-24T14:34:06-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/hweld/44368184660/",
+          "src": "https://farm5.staticflickr.com/4816/44368184660_1b1affbf86_m.jpg",
+          "tags": "allureoftheseas royalcaribbean cruise 2018rclallureoftheseascruiseeasterncaribbean 2018 iphone8plus",
+          "title": "Allure Of The Seas (Pool Deck) -068",
+          "width": 180,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"nj256\\")",
+          "dateTaken": "2018-11-26T05:37:13-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/157151870@N04/44368186660/",
+          "src": "https://farm5.staticflickr.com/4812/44368186660_39cebef1f2_m.jpg",
+          "tags": "",
+          "title": "Filthy sluts to repost",
+          "width": 169,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"bswebb73\\")",
+          "dateTaken": "2018-12-04T12:51:11-08:00",
+          "height": 135,
+          "link": "https://www.flickr.com/photos/99327342@N07/45272937195/",
+          "src": "https://farm5.staticflickr.com/4904/45272937195_dabfe4e079_m.jpg",
+          "tags": "",
+          "title": "Wild Turkey",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"P.R. Foley\\")",
+          "dateTaken": "2018-12-04T19:02:19-08:00",
+          "height": 180,
+          "link": "https://www.flickr.com/photos/21684972@N08/45272938535/",
+          "src": "https://farm5.staticflickr.com/4840/45272938535_15f2cb489e_m.jpg",
+          "tags": "",
+          "title": " ",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"cardstonhigh\\")",
+          "dateTaken": "2018-12-04T08:05:36-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/cardstonhigh/45461381524/",
+          "src": "https://farm5.staticflickr.com/4832/45461381524_3fe6a1763a_m.jpg",
+          "tags": "",
+          "title": "_DSC0020.jpg",
+          "width": 160,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"jithupai\\")",
+          "dateTaken": "2018-12-02T17:49:13-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/135096088@N06/46134849722/",
+          "src": "https://farm5.staticflickr.com/4852/46134849722_ac7afdbc7e_m.jpg",
+          "tags": "",
+          "title": "When the day comes to an end",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"kstabanis\\")",
+          "dateTaken": "2018-12-04T21:16:56-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/160496476@N03/46134853102/",
+          "src": "https://farm5.staticflickr.com/4882/46134853102_6bcc9405ee_m.jpg",
+          "tags": "",
+          "title": "Expressions",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"dadanqomariyah\\")",
+          "dateTaken": "2018-12-04T21:39:43-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/143882309@N06/46134853342/",
+          "src": "https://farm5.staticflickr.com/4858/46134853342_35ca4cc323_m.jpg",
+          "tags": "",
+          "title": "2018_12_05_07_04_19",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"subratasamriddha\\")",
+          "dateTaken": "2018-08-14T10:50:29-08:00",
+          "height": 180,
+          "link": "https://www.flickr.com/photos/136623214@N02/46134853582/",
+          "src": "https://farm5.staticflickr.com/4916/46134853582_6c0cde2951_m.jpg",
+          "tags": "",
+          "title": " ",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"zmoevents\\")",
+          "dateTaken": "2018-12-01T23:36:54-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/zmoevents/46134854822/",
+          "src": "https://farm5.staticflickr.com/4829/46134854822_82b919c603_m.jpg",
+          "tags": "",
+          "title": "2Z3A3360.jpg",
+          "width": 160,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"kmuneebhamza\\")",
+          "dateTaken": "2018-12-01T18:48:21-08:00",
+          "height": 180,
+          "link": "https://www.flickr.com/photos/161400105@N03/46185485471/",
+          "src": "https://farm5.staticflickr.com/4892/46185485471_9e4979430f_m.jpg",
+          "tags": "",
+          "title": " ",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"tonybrown_1826\\")",
+          "dateTaken": "2018-11-29T14:54:18-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/141917652@N04/46185486261/",
+          "src": "https://farm5.staticflickr.com/4850/46185486261_2654d3221f_m.jpg",
+          "tags": "",
+          "title": "IMG_6978.jpg",
+          "width": 240,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"Baju Korporat Supplier\\")",
+          "dateTaken": "2018-12-04T21:39:30-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/152925019@N02/46185486631/",
+          "src": "https://farm5.staticflickr.com/4839/46185486631_3b4dfe0988_m.jpg",
+          "tags": "",
+          "title": "[image: Call for F1 Shirts +6 03 6143 5225.jpg] [image: Design Baju Korporat Wanita.jpg] [image: F1 Uniform +6 010 3425 700.jpg] [image: Fesyen Baju Korporat Wanita.jpg] [image: FREE Design Making (+6 010 3425 700).jpg] [image: FREE DESIGN MAKING +6 03 61",
+          "width": 158,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"bajukorporat.f1shirt013\\")",
+          "dateTaken": "2018-12-04T21:39:38-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/155300992@N04/46185488211/",
+          "src": "https://farm5.staticflickr.com/4894/46185488211_8bc445f961_m.jpg",
+          "tags": "",
+          "title": "Baju Korporat Malaysia",
+          "width": 185,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"thelovequote.net\\")",
+          "dateTaken": "2018-12-04T21:39:40-08:00",
+          "height": 240,
+          "link": "https://www.flickr.com/photos/141314917@N05/46185488801/",
+          "src": "https://farm5.staticflickr.com/4853/46185488801_d411eb1318_m.jpg",
+          "tags": "",
+          "title": "celebrity quotes : Famous Inspirational Quotes - Famous Quotes About Life...",
+          "width": 160,
+        },
+        Object {
+          "author": "nobody@flickr.com (\\"Christian Jena\\")",
+          "dateTaken": "2018-12-05T06:37:23-08:00",
+          "height": 160,
+          "link": "https://www.flickr.com/photos/23215539@N04/46185490031/",
+          "src": "https://farm5.staticflickr.com/4887/46185490031_34defbd58e_m.jpg",
+          "tags": "",
+          "title": "5",
+          "width": 240,
+        },
+      ]
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="header-container"
+      >
+        <div
+          className="branding"
+        >
+          <h1>
+            Pictr
+          </h1>
+          <img
+            alt="cheese"
+            src="camera.png"
+          />
+        </div>
+        <div>
+          <SearchBox />
+        </div>
+      </div>,
+      "className": "header",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="branding"
+          >
+            <h1>
+              Pictr
+            </h1>
+            <img
+              alt="cheese"
+              src="camera.png"
+            />
+          </div>,
+          <div>
+            <SearchBox />
+          </div>,
+        ],
+        "className": "header-container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h1>
+                Pictr
+              </h1>,
+              <img
+                alt="cheese"
+                src="camera.png"
+              />,
+            ],
+            "className": "branding",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Pictr",
+              },
+              "ref": null,
+              "rendered": "Pictr",
+              "type": "h1",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "alt": "cheese",
+                "src": "camera.png",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "img",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <SearchBox />,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "handleSearch": undefined,
+              "handleTimer": undefined,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": "header",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="header-container"
+        >
+          <div
+            className="branding"
+          >
+            <h1>
+              Pictr
+            </h1>
+            <img
+              alt="cheese"
+              src="camera.png"
+            />
+          </div>
+          <div>
+            <SearchBox />
+          </div>
+        </div>,
+        "className": "header",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="branding"
+            >
+              <h1>
+                Pictr
+              </h1>
+              <img
+                alt="cheese"
+                src="camera.png"
+              />
+            </div>,
+            <div>
+              <SearchBox />
+            </div>,
+          ],
+          "className": "header-container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h1>
+                  Pictr
+                </h1>,
+                <img
+                  alt="cheese"
+                  src="camera.png"
+                />,
+              ],
+              "className": "branding",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Pictr",
+                },
+                "ref": null,
+                "rendered": "Pictr",
+                "type": "h1",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "cheese",
+                  "src": "camera.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <SearchBox />,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "handleSearch": undefined,
+                "handleTimer": undefined,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      "type": "header",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
