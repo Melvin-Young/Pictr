@@ -27,8 +27,7 @@ In this order:
 - Unit tests currently support the utility functions controlling search behavior
 - Snapshot testing is used to check the rendering of the react components
 
-## Notes
-###Improvements
+##Improvements
 
 If developing this further I would like to create an overlay for each image that displays data on hover
 I would use a different endpoint, these seem to be random user uploads and it doesn't have high res photos or the ability
