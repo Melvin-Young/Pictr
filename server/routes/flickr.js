@@ -17,10 +17,12 @@ router.get('/', (req, res, next) => {
 	feeds.publicPhotos(queryOptions)
 		.then((response) => {
 			const photoUrls = response.body.items.map((photo) => {
-				let src = photo.media && photo.media.m;
-				let width = parseInt(photo.description.match(/width="(\d+)"/)[1], 10);
-				let height = parseInt(photo.description.match(/height="(\d+)"/)[1], 10);
-				return { src, width, height }
+				const { title, author, link, tags } = photo;
+				const dateTaken = photo.date_taken;
+				const src = photo.media && photo.media.m;
+				const width = parseInt(photo.description.match(/width="(\d+)"/)[1], 10);
+				const height = parseInt(photo.description.match(/height="(\d+)"/)[1], 10);
+				return { src, width, height, title, author, dateTaken, link, tags }
 			});
 			res.json({ photos: photoUrls });
 		})
